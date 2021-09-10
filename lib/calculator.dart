@@ -30,6 +30,7 @@ class Calculator extends StatelessWidget {
                _button(icon: Icon(Icons.remove),),
                _button(icon: Icon(Icons.clear),),
                _button(icon: Icon(Icons.compress_rounded),),
+                _button(icon: Icon(Icons.compress_rounded),),
              ],
            ),
            
